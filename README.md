@@ -1,0 +1,2 @@
+# PRAK_14_MEDIAPIPE_POSE
+P. Kontrol Cerdas
